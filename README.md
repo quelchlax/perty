@@ -35,7 +35,7 @@ Other language specific colors and properties will be added in the future.
 
 ## Issues or Suggestions
 
-For any issues or suggestions, please visit this extensions Github issues
+For any issues or suggestions, please visit this extensions <a href='https://github.com/quelchlax/perty/issues'>Github issues</a>
 
 
 
