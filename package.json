@@ -1,0 +1,21 @@
+{
+    "name": "Perty",
+    "displayName": "Perty",
+    "description": "Perty UI Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Perty",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Perty-color-theme.json"
+            }
+        ]
+    }
+}
