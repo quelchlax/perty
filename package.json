@@ -2,12 +2,44 @@
   "name": "perty",
   "displayName": "Perty",
   "description": "Perty UI Theme",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "engines": {
     "vscode": "^1.52.0"
   },
+  "publisher": "quelchlax",
+  "author": {
+    "name": "Eric Quelch"
+  },
   "categories": [
     "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quelchlax/perty/"
+  },
+  "bugs": {
+    "url": "https://github.com/quelchlax/perty/issues"
+  },
+  "galleryBanner": {
+    "color": "#0D1117",
+    "theme": "dark"
+  },
+  "keywords": [
+    "Perty",
+    "Dark Theme",
+    "Theme",
+    "Github",
+    "Vue",
+    "Colorful",
+    "Google",
+    "Black"
+  ],
+  "badges": [
+    {
+      "url": "https://img.shields.io/badge/Visit-http%3A%2F%2Fquelchlax.tech-brightgreen",
+      "href": "http://quelchlax.tech",
+      "description": "Check out some work I have done!"
+    }
   ],
   "contributes": {
     "themes": [
@@ -17,25 +49,5 @@
         "path": "./themes/Perty-color-theme.json"
       }
     ]
-  },
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/quelchlax/perty.git"
-  },
-  "keywords": [
-    "theme",
-    "github",
-    "dark",
-    "perty"
-  ],
-  "author": "Eric Quelch",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/quelchlax/perty/issues"
-  },
-  "homepage": "https://github.com/quelchlax/perty#readme"
+  }
 }
